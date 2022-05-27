@@ -1,5 +1,4 @@
 import { View, Text, Image, TextInput } from "react-native";
-import { Colors } from "react-native/Libraries/NewAppScreen";
 
 import { COLORS, FONTS, SIZES, assets } from "../constants";
 
